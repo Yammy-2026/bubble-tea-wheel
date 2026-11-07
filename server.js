@@ -30,7 +30,7 @@ let prizes = [
   { label: '100 бонусов', weight: 10, color: '#3B82F6', id: 'r100' },
   { label: 'Лимонад в подарок', weight: 15, color: '#EC4899', id: 'stickers' },
   { label: 'Скидка  10% на десерт', weight: 5, color: '#8B5CF6', id: 'pro30' },
-  { label: 'Доп скидка 10%', weight: 15, color: '#EF4444', id: 'disc5' }
+  { label: 'Доп скидка 10%', weight: 15, color: '#EF4444', id: 'disc5' },
   { label: 'Скидка 5%', weight: 15, color: '#EF4444', id: 'disc5' }
 ]
 
